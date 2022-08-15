@@ -1,0 +1,203 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+.nav-link
+{
+    font-family: 'Open Sans Condensed', sans-serif;
+    padding:20px 30px;
+    size:12px;
+}
+
+
+.nav-link:hover 
+{
+    border-top: 1px red solid;  
+}
+.login {align-self: right;}
+
+.topo
+{
+    font-family: 'Open Sans Condensed', sans-serif;
+    padding:50px 0px;
+}
+
+.topo_s
+{
+    font-size:30px;
+    font-weight:bold;
+}
+
+.subtitulo
+{
+    font-size:20px;
+}
+
+.venda
+{
+    border-bottom:1px solid #efefef;
+    border-top:1px solid #efefef;
+    padding:10px 0px;
+   
+}
+
+.banner-meio
+{
+    font-family: 'Open Sans Condensed', sans-serif;
+    margin:80px 0px 30px 0px;
+    background: #fffefe;
+}
+#titulochef{width: 600%;
+    margin:0px 600px 0px 600px;}
+
+#titulo 
+{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 70px;
+    color: rgb(155, 155, 155);
+    margin-top: 10px;
+}
+#titulopromocao{margin:0px 200px 0px 200px;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 70px;
+    color: rgb(10, 10, 10);
+    margin-top: 10px;}
+.campanha
+{
+    background:#000;
+    height:300px;
+}
+
+.retangulo
+{
+    border: 1px solid #fff;
+    padding:90px;
+    height:90%;
+    width: 100%;
+}
+
+footer
+{
+    font-family: 'Open Sans Condensed', sans-serif;
+    background: #f3f3f3;
+    margin: 60px 0px;
+    margin-bottom:0px;
+    height:auto;
+
+}
+
+.lista1 h4
+{
+    font-size: 15px;
+    font-weight:bold;
+}
+
+.lista1 h5
+{
+    font-size: 15px;
+}
+
+#quemsomos{
+    align-items: center;
+    display: inline-flex;
+    height: 400px;
+    justify-content: space-around;
+    width: 100%;
+    margin: 50px 0 ;}
+
+#chefes1{
+    align-items: right;
+    display: inline-flex;
+    height: 300px;
+    justify-content: space-around;
+    width: 300px;
+    margin: 70px 70px ;
+    
+    }  
+    
+#foto{    margin-top: 15px;
+        box-shadow: 0px 15px 15px 0px #adb5bd;
+    }       
+
+#foto1{    margin-top: 15px;
+    box-shadow: 0px 15px 15px 0px #adb5bd;
+border-radius: 100px;}
+
+#pratos{
+    align-items: center;
+    display: inline-flex;
+    height: 100px;
+    justify-content: space-around;
+    width: 50%;
+    margin: 50px 0 ;}
+
+    #fotopratos{    margin-top: 20px;
+        box-shadow: 0px 15px 15px 0px #adb5bd;
+        border-radius: 40px;
+    }       
+
+    #nomes{font-family: 'Bebas Neue', cursive;
+        font-size: 60px;
+        color: rgb(187, 81, 81);
+        margin-top: 30px;width: 600px;}
+
+        footer {
+            align-items: center;
+            flex-direction: column;
+            background-color: rgba(196, 189, 189, 0.938);
+            color: rgb(10, 10, 10);
+            display: flex;
+            height: 200%;
+            justify-content: flex-start;
+            width: 100%;
+            margin-top: 10%;
+        }
+        
+        #contato {
+            font-family: 'Playfair Display', sans-serif;
+            font-size: 72px;
+            line-height: 50%;
+            margin-bottom: 50px;
+            width: 20%;
+        }
+        
+        #contato h3 {
+            margin: 88px 0 0;
+        }
+        
+        #contato h4 {
+            color: #0a0a0a;
+            margin: 16px 0 0;
+        }
+        
+        #infos {
+            align-items: center;
+            flex-direction: row;
+            display: flex;
+            justify-content: space-between;
+            width: 70%;
+        }
+        #email {
+            display: flex;
+        }
+        
+        #email img {
+            height: 24px;
+            left: 409px;
+            width: 24px;
+        }
+        
+        #email {
+            border-bottom: 1px solid;
+            font-style: italic;
+        }
+        
+        #email  {
+            text-decoration: none;
+        }
+        
+        #redes{
+            display: flex;
+            list-style: none;
+        }
+        
+        
